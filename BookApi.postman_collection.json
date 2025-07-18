@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "eccbed34-9c7c-4628-a44a-b591324bbd50",
+		"name": "BookApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45411738",
+		"_collection_link": "https://lyov-9365728.postman.co/workspace/Lyov's-Workspace~fe2edf56-c788-41bf-8863-0b66eab40724/collection/45411738-eccbed34-9c7c-4628-a44a-b591324bbd50?action=share&source=collection_link&creator=45411738"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
