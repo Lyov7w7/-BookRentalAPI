@@ -11,15 +11,5 @@ To build a RESTful API that supports:
 - Renting and returning books
 - Automatically tracking availability
 - Identifying overdue rentals
-
----
-
-## 🧱 Tech Stack
-
-- **Backend:** Node.js + Express.js  
-- **Database:** PostgreSQL  
-- **ORM/Query Builder:** Sequelize / Knex.js / raw SQL *(your choice)*  
-- **Other:** Node-cron (for scheduling, optional)
-
 ---
 didn't have time to finish...
